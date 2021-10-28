@@ -1,3 +1,5 @@
+# HOSTED: https://vibrant-easley-2f3434.netlify.app/
+
 # Project Title
 Simple overview of use/purpose.  
 
@@ -8,10 +10,18 @@ Simple overview of use/purpose.
 ## Author
 
 Nathan Fletcher
+Charlie Weber
 
 ## Description
 
+small rpg using OOP in JAvascript
+
 ## Techonologies used:
+
+* CSS
+* HTML
+* Javescript
+* Anime.js
 
 ## Setup
 
@@ -19,15 +29,14 @@ Nathan Fletcher
 
 There are no known bugs at this time.
 
-## Future Plans
-
 ## Contact
 
 The best way to reach me is by [email](mailto:nathan.fletcher@gmail.com).
-charlestweber@gmail.com
+[email](charlestweber@gmail.co)
 
 ## License
 
 The MIT License (MIT)
 
 Copyright (c) 2021 Nathan Fletcher
+Copyright (c) 2021 Charlie Weber
