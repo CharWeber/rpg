@@ -1,7 +1,8 @@
 # HOSTED: https://vibrant-easley-2f3434.netlify.app/
 
-# Project Title
-Simple overview of use/purpose.  
+# Angry Aardvark
+Simple aardvark ROUGELITE.
+Two Character Classes  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
@@ -24,7 +25,14 @@ small rpg using OOP in JAvascript
 * Anime.js
 
 ## Setup
+clone repository to desried directory
+create a new terminal instance inside the project directory
+run this command
 
+        $npm installl
+
+open Index.html in any browser
+enjoy
 ## Known Bugs
 
 There are no known bugs at this time.
